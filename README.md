@@ -1,5 +1,5 @@
 # binance_api_price_alert
-An program that tracks your fav crypto and sends you notification on the email if the prices rocket in either way
+An program that tracks your fav crypto and sends you notification on the email if the prices rockets in either way
 
 
 ## Getting started
